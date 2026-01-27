@@ -66,7 +66,7 @@ An **orchestrator agent** coordinates:
 ## Tech Stack
 - Python
 - Google Agent Development Kit (ADK v1.19.0)
-- Large Language Models (LLMs)
+- Large Language Models (LLMs) [Google's Large language Models]
 - Kaggle Notebook Environment
 
 ## Kaggle Notebook
