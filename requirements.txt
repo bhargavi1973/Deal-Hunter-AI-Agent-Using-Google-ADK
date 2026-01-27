@@ -1,0 +1,9 @@
+# Core Utility 
+Google's Agent Development Kit 
+google-adk==1.19.0
+Get it from here - https://google.github.io/adk-docs/
+
+# Note Book Environment
+1. Kaggle Notebook
+2. Jupyter Notebook
+3. Google Colab
