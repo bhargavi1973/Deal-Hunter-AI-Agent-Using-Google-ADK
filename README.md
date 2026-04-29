@@ -35,17 +35,11 @@ This work explores how **LLM-based multi-agent systems** can improve real-world 
 The system follows a **modular, agent-based design**:
 
 ### Core Agents
-- **Price Retrieval Agent**  
-  Collects current prices for new products from online sources.
-  
-- **Used & Refurbished Agent**  
-  Identifies alternative purchasing options with condition-based trade-offs.
-  
-- **Discount & Offers Agent**  
-  Retrieves applicable discount codes and promotional offers.
-  
-- **Recommendation Agent**  
-  Synthesizes all retrieved information and produces the final purchasing recommendation.
+- **Retail Specialist** → Fetches new product prices
+
+- **Marketplace Specialist** → Fetches used/refurb options
+
+- **Coupon Specialist** → Retrieves relevant discounts
 
 ### Orchestration
 An **orchestrator agent** coordinates:
